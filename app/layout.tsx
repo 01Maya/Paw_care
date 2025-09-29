@@ -23,8 +23,13 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: "PawCare - Expert Pet Care Services",
-  description: "Where happy pets meet expert care. Professional veterinary services, grooming, and emergency care.",
+  description:
+    "Where happy pets meet expert care. Professional veterinary services, grooming, and emergency care.",
   generator: "v0.app",
+  other: {
+    "google-site-verification":
+      "RTNgC8Wtic3EwXTqH6QM5pstESyqmOyu_IXWYH8IPTc",
+  },
 }
 
 export default function RootLayout({
