@@ -27,7 +27,7 @@ It features **smooth animations, clean UI/UX, and section-based navigation**, ma
 ## 🐶 Preview
 https://paww-care.vercel.app
 
-
+---
 
 ## Screenshot
 
